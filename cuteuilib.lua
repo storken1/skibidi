@@ -36,6 +36,10 @@ function library:New(Name)
 		end
 	end)
 
+
+print("hi")
+
+
 	Frame.Parent = ScreenGui
 	Frame.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
 	Frame.Position = UDim2.new(0.237586424, 0, 0.19225806, 0)
